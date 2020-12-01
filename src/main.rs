@@ -273,4 +273,5 @@ fn decode(codes: HashMap<Vec<u8>, u8>, buff: Vec<u8>) -> Vec<u8> {
         }
     }
     result
+    
 }
